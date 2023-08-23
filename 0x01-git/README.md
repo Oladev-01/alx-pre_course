@@ -1,2 +1,2 @@
 just another one
-A new update
+A new update.
